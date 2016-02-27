@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalog>
+    <product>
+        <id>1ac8a482-9074-42f7-8a2c-7a512e398d74</id>
+        <name>3 Musketeers</name>
+        <price>0.02</price>
+        <currency>EUR</currency>
+        <bestBefore>12/12/2014</bestBefore>
+    </product>
+    <product>
+        <id>3d0880a1-4924-40f4-ba1f-f513d322b8ee</id>
+        <name>3d0880a1-4924-40f4-ba1f-f513d322b8ee</name>
+        <price>0.77</price>
+        <currency>EUR</currency>
+        <bestBefore>18/11/2014</bestBefore>
+    </product>
+    <product>
+        <id>11b9e7a5-88b7-4f7d-b24a-56b59a768b70</id>
+        <name>5th Avenue</name>
+        <price>3.19</price>
+        <currency>EUR</currency>
+        <bestBefore>18/07/2014</bestBefore>
+    </product>
+    <product>
+        <id>c23564b0-f94e-409a-bf93-20a202a2d74d</id>
+        <name>Andes Mint</name>
+        <price>4.57</price>
+        <currency>EUR</currency>
+        <bestBefore>30/10/2014</bestBefore>
+    </product>
+    <product>
+        <id>3ba3ea93-e518-46f0-a5bb-8281e2f9de9c</id>
+        <name>Ayds</name>
+        <price>2.63</price>
+        <currency>EUR</currency>
+        <bestBefore>18/05/2014</bestBefore>
+    </product>
+    <product>
+        <id>435d1fed-d8d1-4acc-ac12-3a9af54af30d</id>
+        <name>Baby Ruth</name>
+        <price>3.63</price>
+        <currency>EUR</currency>
+        <bestBefore>10/02/2014</bestBefore>
+    </product>
+    <product>
+        <id>8c92ef12-a766-4af9-aa85-f93c53b324a5</id>
+        <name>Bazooka Gum</name>
+        <price>0.04</price>
+        <currency>EUR</currency>
+        <bestBefore>24/09/2014</bestBefore>
+    </product>
+    <product>
+        <id>f9758d6b-fdd7-41c4-8e53-610883911b94</id>
+        <name>Bit-O-Honey</name>
+        <price>3.55</price>
+        <currency>EUR</currency>
+        <bestBefore>28/01/2014</bestBefore>
+    </product>
+    <product>
+        <id>dcf249e9-912d-4ddf-9493-9c0ac02ca89c</id>
+        <name>Black Jacks</name>
+        <price>0.49</price>
+        <currency>EUR</currency>
+        <bestBefore>21/05/2014</bestBefore>
+    </product>
+    <product>
+        <id>835e7218-0d09-479f-b854-9cf904a680af</id>
+        <name>Blow Pop</name>
+        <price>4.02</price>
+        <currency>EUR</currency>
+        <bestBefore>09/12/2014</bestBefore>
+    </product>
+    <product>
+        <id>50ec7987-1f3c-44a6-8155-9261c17ed700</id>
+        <name>Bottle Caps</name>
+        <price>4.34</price>
+        <currency>EUR</currency>
+        <bestBefore>23/12/2014</bestBefore>
+    </product>
+    <product>
+        <id>0b79c627-e01f-47b5-a526-cc55763ad5b2</id>
+        <name>Bounty</name>
+        <price>1.82</price>
+        <currency>EUR</currency>
+        <bestBefore>06/11/2014</bestBefore>
+    </product>
+    <product>
+        <id>d68acf0e-c3fb-4633-a305-561bd284fb40</id>
+        <name>Butterfinger</name>
+        <price>2.3</price>
+        <currency>EUR</currency>
+        <bestBefore>05/08/2014</bestBefore>
+    </product>
+    <product>
+        <id>1322df49-1f21-46c5-a823-bc784f08b55b</id>
+        <name>Cadbury Caramilk</name>
+        <price>0.44</price>
+        <currency>EUR</currency>
+        <bestBefore>27/02/2014</bestBefore>
+    </product>
+    <product>
+        <id>822ee3e5-1518-4ee7-86f9-2b3e66f370f9</id>
+        <name>Cadbury eggs</name>
+        <price>0.03</price>
+        <currency>EUR</currency>
+        <bestBefore>02/08/2014</bestBefore>
+    </product>
+    <product>
+        <id>1392fe38-70a5-4e9a-9952-c3fe5a7b5626</id>
+        <name>Candy Buttons</name>
+        <price>3.54</price>
+        <currency>EUR</currency>
+        <bestBefore>21/04/2014</bestBefore>
+    </product>
+    <product>
+        <id>da7d88a9-662b-413d-95b2-c15e985226b7</id>
+        <name>Candy Cigarettes</name>
+        <price>3.99</price>
+        <currency>EUR</currency>
+        <bestBefore>28/09/2014</bestBefore>
+    </product>
+    <product>
+        <id>5c242330-a0d4-475d-8537-393cae7ccf43</id>
+        <name>Candy Corn</name>
+        <price>0.03</price>
+        <currency>EUR</currency>
+        <bestBefore>05/04/2014</bestBefore>
+    </product>
+    <product>
+        <id>77ef811b-55e7-40b6-9bd6-cc68b5108563</id>
+        <name>Candy Necklace</name>
+        <price>2.9</price>
+        <currency>EUR</currency>
+        <bestBefore>14/01/2014</bestBefore>
+    </product>
+    <product>
+        <id>aaf15e02-b084-4b5e-8135-ec35ff099f46</id>
+        <name>Cherry Cocktail</name>
+        <price>0.04</price>
+        <currency>EUR</currency>
+        <bestBefore>21/09/2014</bestBefore>
+    </product>
+    <product>
+        <id>91ee509d-cd78-4bf5-bd7d-98e4f762b3c0</id>
+        <name>Chiclets</name>
+        <price>4.84</price>
+        <currency>EUR</currency>
+        <bestBefore>05/07/2014</bestBefore>
+    </product>
+    <product>
+        <id>6f12daaa-8cf6-44b4-8ffa-90204be9f9ee</id>
+        <name>Chocolate Coins</name>
+        <price>7.56</price>
+        <currency>EUR</currency>
+        <bestBefore>10/11/2014</bestBefore>
+    </product>
+    <product>
+        <id>94510240-b2d1-4a8b-9a12-ed8e192d6600</id>
+        <name>Club Sandwhich</name>
+        <price>2.36</price>
+        <currency>EUR</currency>
+        <bestBefore>18/07/2014</bestBefore>
+    </product>
+    <product>
+        <id>64ae03f8-59ae-4869-a41c-256955e45a4b</id>
+        <name>Cookies and Creme Hershey Bar</name>
+        <price>1.49</price>
+        <currency>EUR</currency>
+        <bestBefore>09/05/2014</bestBefore>
+    </product>
+    <product>
+        <id>769a193f-5fa0-4eb2-88d5-a9c632d48b47</id>
+        <name>Coucougnette</name>
+        <price>6.75</price>
+        <currency>EUR</currency>
+        <bestBefore>08/10/2014</bestBefore>
+    </product>
+    <product>
+        <id>289a98ba-48cd-474a-9584-2ec6af5c75e0</id>
+        <name>Cow Tales</name>
+        <price>5.39</price>
+        <currency>EUR</currency>
+        <bestBefore>01/01/2014</bestBefore>
+    </product>
+    <product>
+        <id>41e2fceb-0827-4d7e-8629-fa6572ad2a7a</id>
+        <name>DOTS</name>
+        <price>0.32</price>
+        <currency>EUR</currency>
+        <bestBefore>21/01/2015</bestBefore>
+    </product>
+    <product>
+        <id>4fca10d8-3c4f-4df8-ba29-243ec2681a53</id>
+        <name>Dove Bar</name>
+        <price>2.42</price>
+        <currency>EUR</currency>
+        <bestBefore>19/08/2014</bestBefore>
+    </product>
+    <product>
+        <id>8a24a187-6ec3-4571-854d-75dbc3cb20ef</id>
+        <name>Five Star Chocolate Bar</name>
+        <price>2.96</price>
+        <currency>EUR</currency>
+        <bestBefore>09/07/2014</bestBefore>
+    </product>
+    <product>
+        <id>252606e6-e723-459a-a589-de2da7c6c531</id>
+        <name>Forever Yours</name>
+        <price>4.87</price>
+        <currency>EUR</currency>
+        <bestBefore>14/09/2014</bestBefore>
+    </product>
+    <product>
+        <id>ee322d93-c7a4-4a0c-9b6b-6809c4194478</id>
+        <name>Fraise Tagada</name>
+        <price>3.61</price>
+        <currency>EUR</currency>
+        <bestBefore>06/02/2014</bestBefore>
+    </product>
+    <product>
+        <id>c5c4939e-82fb-4ebd-b06b-3bfb1a6de001</id>
+        <name>Godiva Chocolate Bar</name>
+        <price>3.77</price>
+        <currency>EUR</currency>
+        <bestBefore>08/10/2014</bestBefore>
+    </product>
+    <product>
+        <id>0483d07c-10d4-4ad4-9c1f-4172f4bfc6ea</id>
+        <name>Gum Cigars</name>
+        <price>2.11</price>
+        <currency>EUR</currency>
+        <bestBefore>18/08/2014</bestBefore>
+    </product>
+    <product>
+        <id>2e158210-57a9-4e2c-8d98-f1e0d3d4bd3d</id>
+        <name>Gummi bears</name>
+        <price>0.62</price>
+        <currency>EUR</currency>
+        <bestBefore>24/01/2014</bestBefore>
+    </product>
+    <product>
+        <id>b6038fb1-f305-4dbb-b8cf-13859e517e27</id>
+        <name>Gummi cola bottles</name>
+        <price>5.36</price>
+        <currency>EUR</currency>
+        <bestBefore>26/10/2014</bestBefore>
+    </product>
+    <product>
+        <id>f85a6aac-b0db-43cf-98f2-8b948a38de2c</id>
+        <name>Gushers</name>
+        <price>1.37</price>
+        <currency>EUR</currency>
+        <bestBefore>21/07/2014</bestBefore>
+    </product>
+    <product>
+        <id>0783305d-42b1-4f81-a409-ef6c1a2bee11</id>
+        <name>Hershey Almond Toffee Bar</name>
+        <price>1.73</price>
+        <currency>EUR</currency>
+        <bestBefore>09/05/2014</bestBefore>
+    </product>
+    <product>
+        <id>5a4d2de0-6d4c-476a-9f73-cb28537b9ae7</id>
+        <name>Hershey's Creamy Caramel</name>
+        <price>1.41</price>
+        <currency>EUR</currency>
+        <bestBefore>05/03/2014</bestBefore>
+    </product>
+    <product>
+        <id>d0060bdc-4b92-4447-8b13-d3c072c0152c</id>
+        <name>Idaho Spud</name>
+        <price>4.36</price>
+        <currency>EUR</currency>
+        <bestBefore>29/01/2015</bestBefore>
+    </product>
+    <product>
+        <id>88570d95-18cc-421a-bd46-871b9f3965d4</id>
+        <name>Jelly Belly Jelly Beans</name>
+        <price>8.37</price>
+        <currency>EUR</currency>
+        <bestBefore>07/01/2014</bestBefore>
+    </product>
+    <product>
+        <id>09d88a82-0071-46c3-9845-89b24f35fa61</id>
+        <name>Junior Mints</name>
+        <price>2.59</price>
+        <currency>EUR</currency>
+        <bestBefore>27/08/2014</bestBefore>
+    </product>
+    <product>
+        <id>334db529-b8a7-4f98-87a3-b637c5015bfa</id>
+        <name>Kinder Ueberraschung</name>
+        <price>0.74</price>
+        <currency>EUR</currency>
+        <bestBefore>08/12/2014</bestBefore>
+    </product>
+    <product>
+        <id>7ecc9c0e-d197-4dd6-b664-6523d357276d</id>
+        <name>Kit Kat</name>
+        <price>3.0</price>
+        <currency>EUR</currency>
+        <bestBefore>12/11/2014</bestBefore>
+    </product>
+    <product>
+        <id>2f15a4da-283b-4cd0-8f9e-707c02c85abf</id>
+        <name>La Fama</name>
+        <price>5.36</price>
+        <currency>EUR</currency>
+        <bestBefore>18/01/2015</bestBefore>
+    </product>
+    <product>
+        <id>f8cfd41a-e56d-4048-a8e1-5871f61e6651</id>
+        <name>Laffy Taffy</name>
+        <price>0.04</price>
+        <currency>EUR</currency>
+        <bestBefore>15/06/2014</bestBefore>
+    </product>
+    <product>
+        <id>23928000-be16-428c-bea0-33d6d5ddc18e</id>
+        <name>Lemonhead</name>
+        <price>6.62</price>
+        <currency>EUR</currency>
+        <bestBefore>15/01/2015</bestBefore>
+    </product>
+    <product>
+        <id>8cf859b6-61c7-481b-a013-d0262896026e</id>
+        <name>Life Savers</name>
+        <price>1.95</price>
+        <currency>EUR</currency>
+        <bestBefore>09/06/2014</bestBefore>
+    </product>
+    <product>
+        <id>983efe94-3e63-46ed-9290-1604d21547f1</id>
+        <name>Lollipop</name>
+        <price>3.4</price>
+        <currency>EUR</currency>
+        <bestBefore>26/01/2015</bestBefore>
+    </product>
+    <product>
+        <id>a7623625-de67-4bb1-9fee-30178aaad846</id>
+        <name>Lulu's Chocolate Bar</name>
+        <price>0.02</price>
+        <currency>EUR</currency>
+        <bestBefore>28/06/2014</bestBefore>
+    </product>
+    <product>
+        <id>b020dc80-9385-46d0-a4e9-52bb126b0f7c</id>
+        <name>M-Azing</name>
+        <price>0.48</price>
+        <currency>EUR</currency>
+        <bestBefore>15/01/2016</bestBefore>
+    </product>
+    <product>
+        <id>0d1d02d5-085a-46a8-8acc-62cf16c46bf3</id>
+        <name>Maltesers</name>
+        <price>5.07</price>
+        <currency>EUR</currency>
+        <bestBefore>04/07/2014</bestBefore>
+    </product>
+    <product>
+        <id>5ba146e0-89ff-4d78-b693-fe7d56e7b750</id>
+        <name>Mars Bar</name>
+        <price>3.66</price>
+        <currency>EUR</currency>
+        <bestBefore>03/07/2014</bestBefore>
+    </product>
+    <product>
+        <id>724b0b1e-bd57-4e6b-8a4d-46ff16129709</id>
+        <name>Milk Duds</name>
+        <price>0.03</price>
+        <currency>EUR</currency>
+        <bestBefore>04/09/2014</bestBefore>
+    </product>
+    <product>
+        <id>d728ffed-bd33-4260-b6f3-689bdb552ba5</id>
+        <name>Mounds</name>
+        <price>3.98</price>
+        <currency>EUR</currency>
+        <bestBefore>10/08/2014</bestBefore>
+    </product>
+    <product>
+        <id>d9f83bba-9ff9-46bd-9bc8-20dc6cecdf4f</id>
+        <name>Mountain Bar</name>
+        <price>0.02</price>
+        <currency>EUR</currency>
+        <bestBefore>26/03/2014</bestBefore>
+    </product>
+    <product>
+        <id>3bf40979-a3dc-441a-9b0f-a2fce0f9f4dd</id>
+        <name>Mr. Goodbar</name>
+        <price>2.06</price>
+        <currency>EUR</currency>
+        <bestBefore>05/01/2015</bestBefore>
+    </product>
+    <product>
+        <id>8b1055b8-0764-4c10-92b7-59fd92458206</id>
+        <name>Neapolitan Coconut Slice</name>
+        <price>4.49</price>
+        <currency>EUR</currency>
+        <bestBefore>25/01/2014</bestBefore>
+    </product>
+    <product>
+        <id>8d93a677-bb06-4f86-9b08-58baf43faa24</id>
+        <name>Nestle Crunch</name>
+        <price>0.28</price>
+        <currency>EUR</currency>
+        <bestBefore>31/05/2014</bestBefore>
+    </product>
+    <product>
+        <id>eabc1284-2133-478f-bb21-5a00368a55d6</id>
+        <name>Nestle White</name>
+        <price>3.47</price>
+        <currency>EUR</currency>
+        <bestBefore>01/11/2014</bestBefore>
+    </product>
+    <product>
+        <id>eafd207e-e57c-4521-8636-7927c336e76a</id>
+        <name>Noisette</name>
+        <price>6.51</price>
+        <currency>EUR</currency>
+        <bestBefore>24/01/2015</bestBefore>
+    </product>
+    <product>
+        <id>d80fd9ad-1cf5-4840-b15a-cfaaee486673</id>
+        <name>Nut Lovers</name>
+        <price>0.42</price>
+        <currency>EUR</currency>
+        <bestBefore>28/04/2014</bestBefore>
+    </product>
+    <product>
+        <id>7f040a21-672a-41b5-b4ad-0e8c9c2f1597</id>
+        <name>Oompas</name>
+        <price>0.06</price>
+        <currency>EUR</currency>
+        <bestBefore>18/11/2014</bestBefore>
+    </product>
+    <product>
+        <id>c63ec613-28f4-45e0-87d3-d952c743fada</id>
+        <name>Orange jelly candy</name>
+        <price>5.3</price>
+        <currency>EUR</currency>
+        <bestBefore>20/03/2014</bestBefore>
+    </product>
+    <product>
+        <id>4ab93f2f-da3b-4929-bf39-b231d0b44c9c</id>
+        <name>PayDay</name>
+        <price>0.06</price>
+        <currency>EUR</currency>
+        <bestBefore>18/12/2014</bestBefore>
+    </product>
+    <product>
+        <id>10aef307-775d-451a-a5b3-012504c111c9</id>
+        <name>Reese's Crispy Crunchy Bar</name>
+        <price>5.65</price>
+        <currency>EUR</currency>
+        <bestBefore>15/06/2014</bestBefore>
+    </product>
+    <product>
+        <id>d394a6c6-2364-4f76-b2ec-fb46bba816d5</id>
+        <name>Ring Pop</name>
+        <price>2.89</price>
+        <currency>EUR</currency>
+        <bestBefore>08/05/2014</bestBefore>
+    </product>
+    <product>
+        <id>e7613eea-2e31-4c9d-9351-731e2d59b48a</id>
+        <name>Rocky Road</name>
+        <price>6.84</price>
+        <currency>EUR</currency>
+        <bestBefore>08/08/2014</bestBefore>
+    </product>
+    <product>
+        <id>13036927-bbff-4244-adb7-9570cdb13bf4</id>
+        <name>Skittles</name>
+        <price>3.47</price>
+        <currency>EUR</currency>
+        <bestBefore>31/10/2014</bestBefore>
+    </product>
+    <product>
+        <id>5b42d3c3-92e2-4bd8-bad3-ff24e9248056</id>
+        <name>Snickers</name>
+        <price>2.74</price>
+        <currency>EUR</currency>
+        <bestBefore>17/08/2014</bestBefore>
+    </product>
+    <product>
+        <id>86c34ee1-930a-4c45-a27c-49cc8a1941e1</id>
+        <name>Starburst</name>
+        <price>0.04</price>
+        <currency>EUR</currency>
+        <bestBefore>15/01/2016</bestBefore>
+    </product>
+    <product>
+        <id>9be1bbc5-cf4c-4470-80b6-58b4dfa95dde</id>
+        <name>SweeTarts</name>
+        <price>2.91</price>
+        <currency>EUR</currency>
+        <bestBefore>27/07/2014</bestBefore>
+    </product>
+    <product>
+        <id>4be56dbc-b5bd-4c09-bf78-e09edfcfc807</id>
+        <name>Take 5</name>
+        <price>4.4</price>
+        <currency>EUR</currency>
+        <bestBefore>10/12/2014</bestBefore>
+    </product>
+    <product>
+        <id>398e53cc-aba8-4b57-bb4c-d61382e49943</id>
+        <name>Tiny Tarts</name>
+        <price>5.28</price>
+        <currency>EUR</currency>
+        <bestBefore>24/12/2014</bestBefore>
+    </product>
+    <product>
+        <id>f404917d-f7cb-43e7-ae9a-bd2a0ca8abd3</id>
+        <name>Tootsie Pop</name>
+        <price>2.73</price>
+        <currency>EUR</currency>
+        <bestBefore>28/07/2014</bestBefore>
+    </product>
+    <product>
+        <id>9d745625-2527-4557-a3b1-3a923a82a4d2</id>
+        <name>Tootsie Roll</name>
+        <price>2.82</price>
+        <currency>EUR</currency>
+        <bestBefore>16/01/2015</bestBefore>
+    </product>
+    <product>
+        <id>2ec81cd2-6b0d-4313-b7f5-449c6d320b64</id>
+        <name>Twizzlers</name>
+        <price>0.04</price>
+        <currency>EUR</currency>
+        <bestBefore>06/04/2014</bestBefore>
+    </product>
+    <product>
+        <id>c374693b-e753-45cc-977a-2d6d8178c80b</id>
+        <name>Wax lips</name>
+        <price>2.04</price>
+        <currency>EUR</currency>
+        <bestBefore>27/10/2014</bestBefore>
+    </product>
+    <product>
+        <id>b8677644-8b0b-4e11-8d4b-225b8105c4a1</id>
+        <name>Werther's Original</name>
+        <price>0.03</price>
+        <currency>EUR</currency>
+        <bestBefore>23/07/2014</bestBefore>
+    </product>
+    <product>
+        <id>7d1e5ed1-9ef7-49b2-b6c3-5b8cb26f7b5d</id>
+        <name>Whoppers</name>
+        <price>3.98</price>
+        <currency>EUR</currency>
+        <bestBefore>23/05/2014</bestBefore>
+    </product>
+    <product>
+        <id>1079ae06-4403-4c49-91ba-7d6b513a791c</id>
+        <name>York Peppermint Pattie</name>
+        <price>0.05</price>
+        <currency>EUR</currency>
+        <bestBefore>16/10/2014</bestBefore>
+    </product>
+    <product>
+        <id>5039ac5c-6271-46ea-9719-601d0d6a427d</id>
+        <name>Zours</name>
+        <price>0.05</price>
+        <currency>EUR</currency>
+        <bestBefore>08/05/2014</bestBefore>
+    </product>
+</catalog>
